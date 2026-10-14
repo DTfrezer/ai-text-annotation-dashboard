@@ -24,14 +24,31 @@ The application includes a sample dataset to demonstrate the annotation workflow
 
 <img width="1200" height="638" alt="image" src="https://github.com/user-attachments/assets/dbe3efeb-3eba-4bcc-ad56-229727ca53ee" />
 
-
+<br><br>
 
 <img width="1200" height="639" alt="image" src="https://github.com/user-attachments/assets/760587ee-0da7-497d-9c2f-33db228dc190" />
 
-
+<br><br>
 
 <img width="1200" height="640" alt="image" src="https://github.com/user-attachments/assets/19ac834b-6fb4-4fcc-8c9c-af6521d81b09" />
 
+<br><br>
+
+<img width="1358" height="727" alt="image" src="https://github.com/user-attachments/assets/336855d4-4a6e-4195-a463-39f0961338cd" />
+
+<br><br>
+
+<img width="1362" height="734" alt="image" src="https://github.com/user-attachments/assets/2f5025d4-87fe-44c6-a8ee-390d907642e2" />
+
+<br><br>
+
+<img width="1365" height="724" alt="image" src="https://github.com/user-attachments/assets/e785fcdb-e642-42ba-86c1-c5b40861e696" />
+
+<br><br>
+
+<img width="1360" height="723" alt="image" src="https://github.com/user-attachments/assets/87800cbd-4d34-4e4f-8f32-f43a135d849c" />
+
+<br><br>
 
 
 ## 🛠️ Tech Stack
